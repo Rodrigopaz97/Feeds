@@ -76,26 +76,8 @@
   },
   "modoPreparo": "Pré aqueça o forno enquanto amassa todos os ingredientes até eles formarem uma massa (que não grude nas mãos), faça bolinhas e coloque para assar em uma forma untada.",
   "link_imagem":"http://data.whicdn.com/images/70651372/large.jpg"
-},
-
-{
-  "receita": "Bolo para café da tarde",
-  "ingredientes": "3 ovos, 2/3 de xícara de farinha com fermento, 1/2 xícara de açúcar refinado",
-  "ingredientesBase": {
-    "0": "3",
-    "1": "Ovos",
-    "2": "Farinha",
-    "3": "Fermento"
-  },
-  "modoPreparo": "Pré aqueça o forno a 190ºC. Em uma tigela, bata os ovos e o açúcar até que formem um creme, depois misture a farinha. Coloque a massa em uma forma untada e asse.",
-  "link_imagem":"http://re.i.uol.com.br/album/bolos_f_030.jpg"
 }
 ],
-
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "profile": {
     "name": "typicode"
   }
