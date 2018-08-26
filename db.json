@@ -78,8 +78,26 @@
   "link_imagem":"http://data.whicdn.com/images/70651372/large.jpg"
 }
 ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Alimentos":[ {
+    "nome": "Maçã",
+    "carboidatros": "13g",
+    "cargaGlicemica":"6"
+  },
+   {
+    "nome": "Banana",
+    "carboidatros": "22g",
+    "cargaGlicemica":"16"
+   },
+   {
+    "nome": "Feijão Preto",
+    "carboidatros": "10g",
+    "cargaGlicemica":"6"
+   },
+   {
+    "nome": "Batata Frita",
+    "carboidatros": "47g",
+    "cargaGlicemica":"12"
+   },
+  ]
 }
  
